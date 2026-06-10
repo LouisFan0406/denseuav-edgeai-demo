@@ -1,0 +1,38 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+
+# Local environments
+.venv/
+venv/
+env/
+.env
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Demo checkpoint (provided on request, not committed)
+checkpoints/*.pth
+checkpoints/*.pt
+checkpoints/*.onnx
+checkpoints/*.engine
+
+# Sample images (provided on request, not committed)
+sample_data/*.jpg
+sample_data/*.jpeg
+sample_data/*.png
+sample_data/expected_output.json
+
+# Output / logs
+*.log
+outputs/
+runs/
