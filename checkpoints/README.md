@@ -20,7 +20,7 @@ research and possible patent considerations. To request access for academic
 collaboration or verification:
 
 - **Author:** 范詩涵 Shih-Han Fan
-- **Email:** ledlab2392@gmail.com
+- **Email:** M11407W19@mail.ntust.edu.tw
 - **Affiliation:** NTUST, EE5354701 Edge AI Final Project
 
 Please include the following in your request:
